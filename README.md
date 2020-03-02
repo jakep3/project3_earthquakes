@@ -79,7 +79,7 @@ __Figure 4:__ The earthquake data for April 2015.
  
 ![](8.JPG)
 
-__Figure 5:__ This shows the location of the Axial Volcano, which corresponds to the group of earthquakes viewed in Figure 4. 
+__Figure 5:__ This shows the location of the Axial Volcano, which corresponds to a close group of earthquakes shown in Figure 4. 
 
 Part II: Divergent Boundary vs Transform Boundary
 1.	By comparing Figure 1 and Figure 3, it was possible to identify a divergent boundary and a transform boundary for the full data set from Part I. Figure 6 below shows the identified regions. The Gorda Ridge is the divergent boundary, and the Blanco Fracture Zone is the transform boundary. 
