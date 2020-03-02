@@ -140,7 +140,5 @@ __REFERENCES__
 
 [7] 	C. Brosseau, "A volcano may be erupting off the Oregon coast, scientists say," The Oregonian/OregonLive, 30 April 2015. [Online]. Available: https://www.oregonlive.com/pacific-northwest-news/2015/04/a_volcano_may_be_erupting_off.html?fbclid=IwAR37pYmk8uutHTQvn8WpMo2LEA1EqNICjoXPEzXiQxbNEuL0kfssd-rG3vA. [Accessed 29 February 2020].
 
-[8] 	"Ocean Observatories Initiative," [Online]. Available: https://oceanobservatories.org/. [Accessed January 29 2020].
-
 
 
