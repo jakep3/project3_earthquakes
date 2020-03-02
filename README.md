@@ -71,7 +71,7 @@ __Figure 3:__ A map of the NE Pacific Ocean with the earthquakes plotted for the
 
   b.	The range of earthquake size is 2.5 to 6.8 in magnitude. The average earthquake size, taken from the mean of the data collected, is 3.24 in magnitude. 
 
-  c.	For the same region, a map of the earthquakes for data in only April 2015 can be seen in Figure 4. The majority of the midsized earthquakes are in a close group off the coast of Oregon, along the Juan de Fuca Ridge, which is the boarder of the Juan de Fuca Plate and the Pacific Plate. There is an Axial Volcano in that location. These earthquakes can be linked to the eruption of the Axial Seamount, Juan de Fuca Ridge, which was captured in real time by the seafloor seismic and acoustic instruments deployed by the Ocean Observatories Initiative cabled array [6]. Figure 5 shows the location of the Axial Volcano [7]. 
+  c.	For the same region, a map of the earthquakes for data in only April 2015 can be seen in Figure 4. The majority of the midsized earthquakes are in a close group off the coast of Oregon, along the Juan de Fuca Ridge, which is the boundary of the Juan de Fuca Plate and the Pacific Plate. There is an Axial Volcano in that location. These earthquakes can be linked to the eruption of the Axial Seamount, Juan de Fuca Ridge, which was captured in real time by the seafloor seismic and acoustic instruments deployed by the Ocean Observatories Initiative cabled array [6]. Figure 5 shows the location of the Axial Volcano [7]. 
 
 ![](3.JPG)
 
