@@ -39,7 +39,7 @@ The Earth’s surface is made up of many tectonic plates, which are always movin
 
 ![](0.JPG)
 
-__Figure 1:__ the tectonic plates of the NE Pacific Ocean.
+__Figure 1:__ The tectonic plates of the NE Pacific Ocean.
 
 __SOLUTION__
 
