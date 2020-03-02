@@ -96,7 +96,7 @@ __Figure 7:__ Earthquake magnitude vs time for the divergent boundary.
  
 ![](5.1.JPG)
 
-__Figure 8a:__ The divergent boundary isolate on the map. (Gorda Ridge) The data set is from a selected rectangular region with latitudes: 43.025 and 40.614, and longitudes: -128.024 and -126.343.
+__Figure 8a:__ The divergent boundary isolated on the map. (Gorda Ridge) The data set is from a selected rectangular region with latitudes: 43.025 and 40.614, and longitudes: -128.024 and -126.343.
 
 ![](5.2.JPG)
 
@@ -108,7 +108,7 @@ __Figure 9:__ Earthquake magnitude vs time for the transform boundary.
 
 ![](7.1.JPG) 
 
-__Figure 10a:__ The transform boundary isolate on the map. (Blanco Fracture Zone) The data set is from a selected rectangular region with latitudes: 44.598 and 42.997, and longitudes: -130.364 and -125.760.
+__Figure 10a:__ The transform boundary isolated on the map. (Blanco Fracture Zone) The data set is from a selected rectangular region with latitudes: 44.598 and 42.997, and longitudes: -130.364 and -125.760.
 
 ![](7.2.JPG)
 __Figure 10b:__ Zoomed in version of the map of the transform boundary. (Blanco Fracture Zone)
@@ -116,7 +116,7 @@ __Figure 10b:__ Zoomed in version of the map of the transform boundary. (Blanco 
 2.	 Answers to the question: 
 
   a.	For the divergent boundary, the pattern for earthquake magnitude over time appears to be that there are a lot of small magnitude earthquakes (3.5 and smaller) throughout each year, as can be seen in Figure 7. Larger earthquakes (5+ magnitude) in this area are few and far between. For location over time, the pattern appears to be that earthquakes occur in the same areas, almost like clusters indicating that some regions are more prone to earthquakes. As time goes on, the same areas along the boundary are having the most earthquakes. Location can be seen in Figure 8b.   
-For the transform boundary, the pattern for earthquake magnitude over time appears to be that there are a large number of earthquakes with magnitudes in the 2.5 to 5.0 range. This indicates that this region is more prone the higher magnitude earthquakes throughout each year, with the supporting data seen in Figure 9. For location of the earthquakes over tie, the pattern appears to be that the earthquakes and magnitude of earthquakes are evenly spread along a linear path on the boundary. The region as a whole experiences the earthquakes rather than just clusters of the area. The path can be seen in Figure 10b. 
+For the transform boundary, the pattern for earthquake magnitude over time appears to be that there are a large number of earthquakes with magnitudes in the 2.5 to 5.0 range. This indicates that this region is more prone the higher magnitude earthquakes throughout each year, with the supporting data seen in Figure 9. For location of the earthquakes over time, the pattern appears to be that the earthquakes and magnitude of earthquakes are evenly spread along a linear path on the boundary. The region as a whole experiences the earthquakes rather than just clusters of the area. The path can be seen in Figure 10b. 
  
  
 __CONCLUSIONS__ 
