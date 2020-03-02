@@ -21,7 +21,7 @@ Part I: Plate Boundary Feature
 
       a.	Across what geographic area are you able to observe earthquake data in this map? Why do you see most of the earthquakes in that area? 
       
-      b.	 What is the range of earthquake size (magnitude) in these data? What is the average earthquake size in this area? 
+      b.	 What is the range of earthquake size (magnitude) in the data? What is the average earthquake size in this area? 
       
       c.	Map the earthquakes in April 2015. Where are those earthquakes mostly located? What event can you link these earthquakes to?
 
