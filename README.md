@@ -2,7 +2,9 @@ Link to Jupyter Notebook on GitHub:
 https://github.com/jakep3/project3_earthquakes/blob/master/Project_3_Earthquakes.ipynb
 
 Jake Philpott
+
 BME 450
+
 3/1/2020
 
                                         Project 3: Plate Tectonics Assignment
