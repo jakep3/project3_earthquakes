@@ -18,22 +18,22 @@ Part I: Plate Boundary Feature
 1.	Plot (scatter plot) earthquake magnitude vs time.
 2.	Show earthquake locations (lat and lon) on a map by circles. The radius of these circles should be proportional to the earthquake magnitude. 
 3.	Answer these questions:
-a.	Across what geographic area are you able to observe earthquake data in this map? Why do you see most of the earthquakes in that area? 
-b.	 What is the range of earthquake size (magnitude) in these data? What is the average earthquake size in this area? 
-c.	Map the earthquakes in April 2015. Where are those earthquakes mostly located? What event can you link these earthquakes to?
+      a.	Across what geographic area are you able to observe earthquake data in this map? Why do you see most of the earthquakes in that area? 
+      b.	 What is the range of earthquake size (magnitude) in these data? What is the average earthquake size in this area? 
+      c.	Map the earthquakes in April 2015. Where are those earthquakes mostly located? What event can you link these earthquakes to?
 
 Part II: Divergent Boundary vs Transform Boundary 
 
 1.	Identify a divergent boundary and a transform boundary on the map you selected in Part I and repeat steps 1 and 2 of Part I. 
 2.	 Answer this question: 
-  a.	What kind of patterns in earthquake magnitude and location do you observe over time along each boundary?
+     a.	What kind of patterns in earthquake magnitude and location do you observe over time along each boundary?
 
 __BACKGROUND__ 
 
 The Earth’s surface is made up of many tectonic plates, which are always moving relative to one another. Three tectonic plates of interest for this project are the North American Plate, the Pacific Plate, and the Juan de Fuca Plate. At the boundaries between the plates, there is a lot of stress build up which is where earthquakes often occur from the release of energy [1]. Plates have different boundary names (divergent, convergent, or transform), depending on the motion the two plates have with each other. A divergent boundary is one where two plates are pushed apart from each other at the boundary line [2]. A convergent boundary is one where the plates more toward each other at the boundary line [2]. A transform boundary is one where the plates move past each other in the same plane in opposite directions [2]. The Juan De Fuca Plate, the Pacific Plate, and the North American Plate have all three types of boundaries as can be seen in Figure 1 [3]. Also it should be noted that the Juan de Fuca Plate is segmented into three segments, with the Explorer Plate as the northern segment, and the Gorda Plate as the southern segment [4].
 
-![](0.jpg)
 
+![](0.jpg)
 __Figure 1:__ the tectonic plates of the NE Pacific Ocean.
 
 __SOLUTION__
