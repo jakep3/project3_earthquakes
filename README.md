@@ -18,14 +18,18 @@ Part I: Plate Boundary Feature
 1.	Plot (scatter plot) earthquake magnitude vs time.
 2.	Show earthquake locations (lat and lon) on a map by circles. The radius of these circles should be proportional to the earthquake magnitude. 
 3.	Answer these questions:
+
       a.	Across what geographic area are you able to observe earthquake data in this map? Why do you see most of the earthquakes in that area? 
+      
       b.	 What is the range of earthquake size (magnitude) in these data? What is the average earthquake size in this area? 
+      
       c.	Map the earthquakes in April 2015. Where are those earthquakes mostly located? What event can you link these earthquakes to?
 
 Part II: Divergent Boundary vs Transform Boundary 
 
 1.	Identify a divergent boundary and a transform boundary on the map you selected in Part I and repeat steps 1 and 2 of Part I. 
 2.	 Answer this question: 
+
      a.	What kind of patterns in earthquake magnitude and location do you observe over time along each boundary?
 
 __BACKGROUND__ 
