@@ -38,6 +38,7 @@ The Earth’s surface is made up of many tectonic plates, which are always movin
 
 
 ![](0.JPG)
+
 __Figure 1:__ the tectonic plates of the NE Pacific Ocean.
 
 __SOLUTION__
@@ -57,6 +58,7 @@ Part I: Plate Boundary Features
 
 __Figure 2:__ The Earthquake Magnitude vs Time for the full data set.
  
+ 
 2.	The earthquake locations are shown on a map in Figure 3. The circle sizes are proportional to the earthquake magnitudes.
 
 ![](2.JPG)
