@@ -43,7 +43,8 @@ __Figure 1:__ the tectonic plates of the NE Pacific Ocean.
 __SOLUTION__
 
 The solution involved requesting custom data from the USGS Earthquake Catalog [5]. For this project, the minimum earthquake magnitude was set to 2.5, and the date range was from January 1st, 2010 to February 24th, 2020. The data was downloaded as a CSV file and uploaded to GitHub. Then, the data was used in Jupyter Notebook in order to create plots, maps, and perform analysis. The analysis allowed for trends to be discovered which allowed for answers to the project questions.
- 
+
+
 __RESULTS__
 
 The results from the data analysis for Part I and Part II are to follow, for earthquake data in the NE Pacific Ocean from January 1st, 2010 to Februarys 24th, 2020. 
@@ -52,13 +53,13 @@ Part I: Plate Boundary Features
 
 1.	The scatter plot of earthquake magnitude vs time for the full set of data can be seen in Figure 2. The full data set is from a selected rectangular region with latitudes: 52.107 and 38.891, and longitudes: -131.836 and -122.168.
 
-![](1.jpg)
+![](1.JPG)
 
 __Figure 2:__ The Earthquake Magnitude vs Time for the full data set.
  
 2.	The earthquake locations are shown on a map in Figure 3. The circle sizes are proportional to the earthquake magnitudes.
 
-![](2.jpg)
+![](2.JPG)
 
 __Figure 3:__ A map of the NE Pacific Ocean with the earthquakes plotted for the full data set. 
 
@@ -67,44 +68,44 @@ a.	By comparing Figure 1 and the map in Figure 3, I observe earthquake data on t
 b.	The range of earthquake size is 2.5 to 6.8 in magnitude. The average earthquake size, taken from the mean of the data collected, is 3.24 in magnitude. 
 c.	For the same region, a map of the earthquakes for data in only April 2015 can be seen in Figure 4. The majority of the midsized earthquakes are in a close group off the coast of Oregon, along the Juan de Fuca Ridge, which is the boarder of the Juan de Fuca Plate and the Pacific Plate. There is an Axial Volcano in that location. These earthquakes can be linked to the eruption of the Axial Seamount, Juan de Fuca Ridge, which was captured in real time by the seafloor seismic and acoustic instruments deployed by the Ocean Observatories Initiative cabled array [6]. Figure 5 shows the location of the Axial Volcano [7]. 
 
-![](3.jpg)
+![](3.JPG)
 
 __Figure 4:__ The earthquake data for April 2015.
  
-![](8.jpg)
+![](8.JPG)
 
 __Figure 5:__ This shows the location of the Axial Volcano, which corresponds to the group of earthquakes viewed in Figure 4. 
 
 Part II: Divergent Boundary vs Transform Boundary
 1.	By comparing Figure 1 and Figure 3, it was possible to identify a divergent boundary and a transform boundary for the full data set from Part I. Figure 6 below shows the identified regions. The Gorda Ridge is the divergent boundary, and the Blanco Fracture Zone is the transform boundary. 
  
-![](9.jpg)
+![](9.JPG)
 
 __Figure 6:__ Comparing the data from the USGS with an image that identifies the plate boundaries in the NE Pacific Ocean. The Blanco Fracture Zone is named on Figure 5.
 
 Next, for the identified regions, steps 1 and 2 of Part I will be repeated. Figures 7 and 8(a, b) will be steps 1 and 2 respectively, for the divergent boundary. Figures 9 and 10(a, b) will be steps 1 and 2 respectively for the transform boundary. 
 
-![](4.jpg)
+![](4.JPG)
 
 __Figure 7:__ Earthquake magnitude vs time for the divergent boundary.
  
-![](5.1.jpg)
+![](5.1.JPG)
 
 __Figure 8a:__ The divergent boundary isolate on the map. (Gorda Ridge) The data set is from a selected rectangular region with latitudes: 43.025 and 40.614, and longitudes: -128.024 and -126.343.
 
-![](5.2.jpg)
+![](5.2.JPG)
 
 __Figure 8b:__ Zoomed in version of the map of the divergent boundary. (Gorda Ridge)
 
-![](6.jpg)
+![](6.JPG)
 
 __Figure 9:__ Earthquake magnitude vs time for the transform boundary.
 
-![](7.1.jpg) 
+![](7.1.JPG) 
 
 __Figure 10a:__ The transform boundary isolate on the map. (Blanco Fracture Zone) The data set is from a selected rectangular region with latitudes: 44.598 and 42.997, and longitudes: -130.364 and -125.760.
 
-![](7.2.jpg)
+![](7.2.JPG)
 __Figure 10b:__ Zoomed in version of the map of the transform boundary. (Blanco Fracture Zone)
 
 2.	 Answers to the question: 
