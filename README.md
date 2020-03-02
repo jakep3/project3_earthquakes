@@ -37,7 +37,7 @@ __BACKGROUND__
 The Earth’s surface is made up of many tectonic plates, which are always moving relative to one another. Three tectonic plates of interest for this project are the North American Plate, the Pacific Plate, and the Juan de Fuca Plate. At the boundaries between the plates, there is a lot of stress build up which is where earthquakes often occur from the release of energy [1]. Plates have different boundary names (divergent, convergent, or transform), depending on the motion the two plates have with each other. A divergent boundary is one where two plates are pushed apart from each other at the boundary line [2]. A convergent boundary is one where the plates more toward each other at the boundary line [2]. A transform boundary is one where the plates move past each other in the same plane in opposite directions [2]. The Juan De Fuca Plate, the Pacific Plate, and the North American Plate have all three types of boundaries as can be seen in Figure 1 [3]. Also it should be noted that the Juan de Fuca Plate is segmented into three segments, with the Explorer Plate as the northern segment, and the Gorda Plate as the southern segment [4].
 
 
-![](0.jpg)
+![](0.JPG)
 __Figure 1:__ the tectonic plates of the NE Pacific Ocean.
 
 __SOLUTION__
@@ -120,12 +120,19 @@ The purpose of this project was to evaluate earthquake data in the NE Pacific Oc
 __REFERENCES__
 
 [1] 	"Why and where do earthquakes occur?," British Geological Survey, [Online]. Available: https://www.bgs.ac.uk/discoveringGeology/hazards/earthquakes/whyWhere.html. [Accessed 29 February 2020].
+
 [2] 	"Plate tectonics," British Geological Survey, [Online]. Available: https://www.bgs.ac.uk/discoveringGeology/hazards/earthquakes/plateTectonics.html. [Accessed 29 February 2020].
+
 [3] 	M. Gilmore, "The Pacific Northwest is an active continental margin," 2019.
+
 [4] 	J. A. DiPietro, Cascadia Volcanic Arc System, 2013. 
+
 [5] 	USGS, "Earthquake Hazards Program," [Online]. Available: https://earthquake.usgs.gov/earthquakes/search/#%7B%22autoUpdate%22%3A%5B%22autoUpdate%22%5D%2C%22basemap%22%3A%22grayscale%22%2C%22feed%22%3A%221day_m25%22%2C%22listFormat%22%3A%22default%22%2C%22mapposition%22%3A%5B%5B5.703447982149503%2C-169.716796875%. [Accessed 29 February 2020].
+
 [6] 	J. H. D. R. B. C. G. R .P. Dziak, "Explosive processes during the 2015 eruption of Axial Seamount, as recorded by seafloor hydrophones," 12 April 2017. [Online]. Available: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GC006734. [Accessed 29 February 2020].
+
 [7] 	C. Brosseau, "A volcano may be erupting off the Oregon coast, scientists say," The Oregonian/OregonLive, 30 April 2015. [Online]. Available: https://www.oregonlive.com/pacific-northwest-news/2015/04/a_volcano_may_be_erupting_off.html?fbclid=IwAR37pYmk8uutHTQvn8WpMo2LEA1EqNICjoXPEzXiQxbNEuL0kfssd-rG3vA. [Accessed 29 February 2020].
+
 [8] 	"Ocean Observatories Initiative," [Online]. Available: https://oceanobservatories.org/. [Accessed January 29 2020].
 
 
