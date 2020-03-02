@@ -66,9 +66,12 @@ __Figure 2:__ The Earthquake Magnitude vs Time for the full data set.
 __Figure 3:__ A map of the NE Pacific Ocean with the earthquakes plotted for the full data set. 
 
 3.	Answers to the questions:
-a.	By comparing Figure 1 and the map in Figure 3, I observe earthquake data on the boundaries between the tectonic plates. The tectonic plates for this data set include the Juan de Fuca Plate, the Pacific Plate, the North American Plate, the Gorda Plate, and the Explorer Plate. Most of the earthquakes are seen along the plate boundaries because boundaries are where the tectonic plates move away from each other, toward each other, and slide past each other. The tectonic plate movement discharges a lot of energy which causes the vibrations we feel and classify as earthquakes.
-b.	The range of earthquake size is 2.5 to 6.8 in magnitude. The average earthquake size, taken from the mean of the data collected, is 3.24 in magnitude. 
-c.	For the same region, a map of the earthquakes for data in only April 2015 can be seen in Figure 4. The majority of the midsized earthquakes are in a close group off the coast of Oregon, along the Juan de Fuca Ridge, which is the boarder of the Juan de Fuca Plate and the Pacific Plate. There is an Axial Volcano in that location. These earthquakes can be linked to the eruption of the Axial Seamount, Juan de Fuca Ridge, which was captured in real time by the seafloor seismic and acoustic instruments deployed by the Ocean Observatories Initiative cabled array [6]. Figure 5 shows the location of the Axial Volcano [7]. 
+
+  a.	By comparing Figure 1 and the map in Figure 3, I observe earthquake data on the boundaries between the tectonic plates. The tectonic plates for this data set include the Juan de Fuca Plate, the Pacific Plate, the North American Plate, the Gorda Plate, and the Explorer Plate. Most of the earthquakes are seen along the plate boundaries because boundaries are where the tectonic plates move away from each other, toward each other, and slide past each other. The tectonic plate movement discharges a lot of energy which causes the vibrations we feel and classify as earthquakes.
+
+  b.	The range of earthquake size is 2.5 to 6.8 in magnitude. The average earthquake size, taken from the mean of the data collected, is 3.24 in magnitude. 
+
+  c.	For the same region, a map of the earthquakes for data in only April 2015 can be seen in Figure 4. The majority of the midsized earthquakes are in a close group off the coast of Oregon, along the Juan de Fuca Ridge, which is the boarder of the Juan de Fuca Plate and the Pacific Plate. There is an Axial Volcano in that location. These earthquakes can be linked to the eruption of the Axial Seamount, Juan de Fuca Ridge, which was captured in real time by the seafloor seismic and acoustic instruments deployed by the Ocean Observatories Initiative cabled array [6]. Figure 5 shows the location of the Axial Volcano [7]. 
 
 ![](3.JPG)
 
@@ -111,8 +114,10 @@ __Figure 10a:__ The transform boundary isolate on the map. (Blanco Fracture Zone
 __Figure 10b:__ Zoomed in version of the map of the transform boundary. (Blanco Fracture Zone)
 
 2.	 Answers to the question: 
-a.	For the divergent boundary, the pattern for earthquake magnitude over time appears to be that there are a lot of small magnitude earthquakes (3.5 and smaller) throughout each year, as can be seen in Figure 7. Larger earthquakes (5+ magnitude) in this area are few and far between. For location over time, the pattern appears to be that earthquakes occur in the same areas, almost like clusters indicating that some regions are more prone to earthquakes. As time goes on, the same areas along the boundary are having the most earthquakes. Location can be seen in Figure 8b. 
-b.	For the transform boundary, the pattern for earthquake magnitude over time appears to be that there are a large number of earthquakes with magnitudes in the 2.5 to 5.0 range. This indicates that this region is more prone the higher magnitude earthquakes throughout each year, with the supporting data seen in Figure 9. For location of the earthquakes over tie, the pattern appears to be that the earthquakes and magnitude of earthquakes are evenly spread along a linear path on the boundary. The region as a whole experiences the earthquakes rather than just clusters of the area. The path can be seen in Figure 10b. 
+
+  a.	For the divergent boundary, the pattern for earthquake magnitude over time appears to be that there are a lot of small magnitude earthquakes (3.5 and smaller) throughout each year, as can be seen in Figure 7. Larger earthquakes (5+ magnitude) in this area are few and far between. For location over time, the pattern appears to be that earthquakes occur in the same areas, almost like clusters indicating that some regions are more prone to earthquakes. As time goes on, the same areas along the boundary are having the most earthquakes. Location can be seen in Figure 8b. 
+  
+  b.	For the transform boundary, the pattern for earthquake magnitude over time appears to be that there are a large number of earthquakes with magnitudes in the 2.5 to 5.0 range. This indicates that this region is more prone the higher magnitude earthquakes throughout each year, with the supporting data seen in Figure 9. For location of the earthquakes over tie, the pattern appears to be that the earthquakes and magnitude of earthquakes are evenly spread along a linear path on the boundary. The region as a whole experiences the earthquakes rather than just clusters of the area. The path can be seen in Figure 10b. 
  
  
 __CONCLUSIONS__ 
