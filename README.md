@@ -26,7 +26,7 @@ Part II: Divergent Boundary vs Transform Boundary
 
 1.	Identify a divergent boundary and a transform boundary on the map you selected in Part I and repeat steps 1 and 2 of Part I. 
 2.	 Answer this question: 
-a.	What kind of patterns in earthquake magnitude and location do you observe over time along each boundary?
+  a.	What kind of patterns in earthquake magnitude and location do you observe over time along each boundary?
 
 __BACKGROUND__ 
 
